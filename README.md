@@ -1,0 +1,111 @@
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:7c3aed&height=200&section=header&text=Hi,%20I'm%20Muhammad%20Mustafa%20👋&fontSize=40&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=CS%20Student%20|%20Aspiring%20Developer&descSize=18&descAlignY=58&descColor=a855f7" width="100%"/>
+</div>
+
+---
+
+## 👋 Hi, I'm [Muhammad Mustafa](https://github.com/MuhammadMustafa23)! | Computer Science Student | Aspiring Developer
+
+Passionately exploring AI, Software Development, and everything in between.
+
+---
+
+## 🛠️ **Technical Skills**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,typescript,python,css,javascript&theme=dark&perline=6" />
+
+</div>
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadMustafa23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMustafa23&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMustafa23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+</div>
+
+---
+
+## 🚀 **Projects**
+
+| Project | Description | Language | Stars |
+|---------|-------------|----------|-------|
+| [MuhammadMustafa23](https://github.com/MuhammadMustafa23/MuhammadMustafa23) | No description | Python | ★0 |
+| [Resume-Optimizer-Project](https://github.com/MuhammadMustafa23/Resume-Optimizer-Project) | No description | TypeScript | ★0 |
+| [RAG-Agent](https://github.com/MuhammadMustafa23/RAG-Agent) | No description | Python | ★0 |
+| [SuperMarioBros-x-86-MASM-Architecture-Project](https://github.com/MuhammadMustafa23/SuperMarioBros-x-86-MASM-Architecture-Project) | A fully-featured Mario-style platform game written entirely  | Assembly | ★0 |
+| [BuzzBombers-Game-with-SFML](https://github.com/MuhammadMustafa23/BuzzBombers-Game-with-SFML) | A vibrant arcade-style shooting game built with C++ and SFML | C++ | ★0 |
+| [SmartCity-Islamabad-A-Data-Structures-Focused-Urban-Simulation](https://github.com/MuhammadMustafa23/SmartCity-Islamabad-A-Data-Structures-Focused-Urban-Simulation) | SmartCity-Islamabad is a C++ console application that simula | - | ★0 |
+
+---
+
+## 🔗 **Connect With Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mustafa-ab5b273a9/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMustafa23)
+
+</div>
+
+---
+
+## 💡 **About Me**
+
+```python
+class MuhammadMustafa:
+    name      = "Muhammad Mustafa"
+    username  = "MuhammadMustafa23"
+    uni       = "FAST-NUCES, Islamabad"
+    location  = "Pakistan 🇵🇰"
+    languages = ["Assembly", "C++", "Typescript", "Python"]
+    interests = ['AI/ML', 'Software Engineering', 'Gaming', 'Fitness']
+    goal      = "Build production-level AI systems"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something cool 🚀")
+
+me = MuhammadMustafa()
+me.say_hi()
+```
+
+---
+
+## 🌱 **Currently Working On**
+
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 💻 Building projects with **Assembly**, **C++**, **Typescript**
+- 📚 Deepening knowledge in **Operating Systems & Databases**
+- 🔬 Experimenting with **AI Agents & CSP Algorithms**
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MuhammadMustafa23.MuhammadMustafa23&color=00d4ff)
+
+  *"Code is poetry written for machines, but read by humans."*
+
+  <!-- auto-updated: 13 May 2026, 21:09 UTC -->
+</div>
