@@ -37,11 +37,15 @@ Passionately exploring AI, Software Development, and everything in between.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadMustafa23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMustafa23&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=MuhammadMustafa23&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMustafa23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMustafa23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=a855f7&point=00d4ff" width="100%"/>
 </div>
 
 ---
@@ -107,5 +111,5 @@ me.say_hi()
 
   *"Code is poetry written for machines, but read by humans."*
 
-  <!-- auto-updated: 13 May 2026, 21:09 UTC -->
+  <!-- auto-updated: 13 May 2026, 21:15 UTC -->
 </div>
