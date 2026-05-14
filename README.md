@@ -15,15 +15,16 @@ Passionately exploring AI, Software Development, and everything in between.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,typescript,python,css,javascript&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,python,php,typescript,css,javascript&theme=dark&perline=6" />
 
 </div>
 
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,12 +55,12 @@ Passionately exploring AI, Software Development, and everything in between.
 
 | Project | Description | Language | Stars |
 |---------|-------------|----------|-------|
-| [MuhammadMustafa23](https://github.com/MuhammadMustafa23/MuhammadMustafa23) | No description | Python | ★0 |
-| [Resume-Optimizer-Project](https://github.com/MuhammadMustafa23/Resume-Optimizer-Project) | No description | TypeScript | ★0 |
-| [RAG-Agent](https://github.com/MuhammadMustafa23/RAG-Agent) | No description | Python | ★0 |
-| [SuperMarioBros-x-86-MASM-Architecture-Project](https://github.com/MuhammadMustafa23/SuperMarioBros-x-86-MASM-Architecture-Project) | A fully-featured Mario-style platform game written entirely  | Assembly | ★0 |
-| [BuzzBombers-Game-with-SFML](https://github.com/MuhammadMustafa23/BuzzBombers-Game-with-SFML) | A vibrant arcade-style shooting game built with C++ and SFML | C++ | ★0 |
-| [SmartCity-Islamabad-A-Data-Structures-Focused-Urban-Simulation](https://github.com/MuhammadMustafa23/SmartCity-Islamabad-A-Data-Structures-Focused-Urban-Simulation) | SmartCity-Islamabad is a C++ console application that simula | - | ★0 |
+| [ChronoRift-OS-Project](https://github.com/MuhammadMustafa23/ChronoRift-OS-Project) | A wave-based RPG built in C++17 that demonstrates core Opera | C++ | ★1 |
+| [BuzzBombers-Game-with-SFML](https://github.com/MuhammadMustafa23/BuzzBombers-Game-with-SFML) | A vibrant arcade-style shooting game built with C++ and SFML | C++ | ★1 |
+| [Resume-Optimizer-Project](https://github.com/MuhammadMustafa23/Resume-Optimizer-Project) | AI-powered resume optimizer — matches resume to job descript | TypeScript | ★1 |
+| [SmartCity-Islamabad-A-Data-Structures-Focused-Urban-Simulation](https://github.com/MuhammadMustafa23/SmartCity-Islamabad-A-Data-Structures-Focused-Urban-Simulation) | A console-based C++ simulation of a smart city management sy | C++ | ★1 |
+| [MediTrack](https://github.com/MuhammadMustafa23/MediTrack) | A hospital management system for The Ivor Paine Memorial Hos | PHP | ★1 |
+| [CityMind-AI-Simulation](https://github.com/MuhammadMustafa23/CityMind-AI-Simulation) | AI-driven city simulation — CSP layout, GA ambulance dispatc | Python | ★1 |
 
 ---
 
@@ -82,7 +83,7 @@ class MuhammadMustafa:
     username  = "MuhammadMustafa23"
     uni       = "FAST-NUCES, Islamabad"
     location  = "Pakistan 🇵🇰"
-    languages = ["Assembly", "C++", "Typescript", "Python"]
+    languages = ["C++", "Python", "Assembly", "Php"]
     interests = ['AI/ML', 'Software Engineering', 'Gaming', 'Fitness']
     goal      = "Build production-level AI systems"
 
@@ -98,7 +99,7 @@ me.say_hi()
 ## 🌱 **Currently Working On**
 
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 💻 Building projects with **Assembly**, **C++**, **Typescript**
+- 💻 Building projects with **C++**, **Python**, **Assembly**
 - 📚 Deepening knowledge in **Operating Systems & Databases**
 - 🔬 Experimenting with **AI Agents & CSP Algorithms**
 
@@ -111,5 +112,5 @@ me.say_hi()
 
   *"Code is poetry written for machines, but read by humans."*
 
-  <!-- auto-updated: 13 May 2026, 21:15 UTC -->
+  <!-- auto-updated: 14 May 2026, 02:34 UTC -->
 </div>
