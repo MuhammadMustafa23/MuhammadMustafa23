@@ -15,13 +15,14 @@ Passionately exploring AI, Software Development, and everything in between.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,php,typescript,css,javascript&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,php,typescript,css,javascript&theme=dark&perline=6" />
 
 </div>
 
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -83,7 +84,7 @@ class MuhammadMustafa:
     username  = "MuhammadMustafa23"
     uni       = "FAST-NUCES, Islamabad"
     location  = "Pakistan 🇵🇰"
-    languages = ["C++", "Python", "Assembly", "Php"]
+    languages = ["C++", "Java", "Python", "Assembly"]
     interests = ['AI/ML', 'Software Engineering', 'Gaming', 'Fitness']
     goal      = "Build production-level AI systems"
 
@@ -99,7 +100,7 @@ me.say_hi()
 ## 🌱 **Currently Working On**
 
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 💻 Building projects with **C++**, **Python**, **Assembly**
+- 💻 Building projects with **C++**, **Java**, **Python**
 - 📚 Deepening knowledge in **Operating Systems & Databases**
 - 🔬 Experimenting with **AI Agents & CSP Algorithms**
 
@@ -112,5 +113,5 @@ me.say_hi()
 
   *"Code is poetry written for machines, but read by humans."*
 
-  <!-- auto-updated: 14 May 2026, 08:30 UTC -->
+  <!-- auto-updated: 14 May 2026, 13:53 UTC -->
 </div>
