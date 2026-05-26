@@ -217,8 +217,8 @@ def build_currently_section(lang_totals):
 
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 💻 Building projects with {langs_str}
-- 📚 Deepening knowledge in **Operating Systems & Databases**
-- 🔬 Experimenting with **AI Agents & CSP Algorithms**"""
+- 📚 Deepening knowledge in ** Databases & Data Analysis**
+
 
 # ── Full README assembler ──────────────────────────────────────────────────────
 
