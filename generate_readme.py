@@ -64,9 +64,8 @@ LANG_TO_BADGE = {
     "git":        ("Git",        "Git-F05032",       "git",           "white"),
 }
 
-# Extra skills always added if certain languages are present
 ALWAYS_ADD = {
-    "mysql": ["c++", "java", "python", "php"],   # if any of these exist, add mysql badge
+    "mysql": ["c++", "java", "python", "php"],
     "git":   ["c++", "java", "python", "javascript", "typescript",
                "c#", "go", "rust", "kotlin", "swift"],
 }
@@ -92,7 +91,7 @@ def get_repos():
             break
         repos.extend(batch)
         page += 1
-    return [r for r in repos if not r["fork"]]   # exclude forks
+    return [r for r in repos if not r["fork"]]
 
 def get_languages(repos):
     """Aggregate byte counts across all repos (up to 40 to stay within rate limit)."""
@@ -105,7 +104,7 @@ def get_languages(repos):
                     totals[lang.lower()] += count
         except Exception:
             pass
-    return totals   # { "python": 123456, "c++": 78900, ... }
+    return totals
 
 # ── Skill detection ────────────────────────────────────────────────────────────
 
@@ -118,17 +117,15 @@ def detect_skills(lang_totals):
         if lang in LANG_TO_BADGE:
             detected.append(lang)
 
-    # Add MySQL if any backend language present
     has_backend = any(l in detected for l in ALWAYS_ADD["mysql"])
     if has_backend and "mysql" not in detected:
         detected.append("mysql")
 
-    # Always add Git if any language found
     has_code = any(l in detected for l in ALWAYS_ADD["git"])
     if has_code and "git" not in detected:
         detected.append("git")
 
-    return detected   # ordered by usage
+    return detected
 
 # ── README section builders ────────────────────────────────────────────────────
 
@@ -191,24 +188,25 @@ def build_about_section(lang_totals):
     top_langs = [k for k, _ in sorted(lang_totals.items(), key=lambda x: -x[1])[:4]]
     lang_str  = ", ".join(f'"{l.title()}"' for l in top_langs)
     class_name = DISPLAY_NAME.replace(" ", "")
-    return f"""## 💡 **About Me**
-
-```python
-class {class_name}:
-    name      = "{DISPLAY_NAME}"
-    username  = "{USERNAME}"
-    uni       = "{UNI}"
-    location  = "{LOCATION} 🇵🇰"
-    languages = [{lang_str}]
-    interests = {INTERESTS}
-    goal      = "{GOAL}"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool 🚀")
-
-me = {class_name}()
-me.say_hi()
-```"""
+    code_block = (
+        f"```python\n"
+        f"class {class_name}:\n"
+        f'    name      = "{DISPLAY_NAME}"\n'
+        f'    username  = "{USERNAME}"\n'
+        f'    uni       = "{UNI}"\n'
+        f'    location  = "{LOCATION} 🇵🇰"\n'
+        f'    languages = [{lang_str}]\n'
+        f'    interests = {INTERESTS}\n'
+        f'    goal      = "{GOAL}"\n'
+        f"\n"
+        f"    def say_hi(self):\n"
+        f'        print("Thanks for stopping by! Let\'s build something cool 🚀")\n'
+        f"\n"
+        f"me = {class_name}()\n"
+        f"me.say_hi()\n"
+        f"```"
+    )
+    return f"## 💡 **About Me**\n\n{code_block}"
 
 def build_currently_section(lang_totals):
     top3 = [k.title() for k, _ in sorted(lang_totals.items(), key=lambda x: -x[1])[:3]]
@@ -217,15 +215,15 @@ def build_currently_section(lang_totals):
 
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 💻 Building projects with {langs_str}
-- 📚 Deepening knowledge in ** Databases & Data Analysis**
-
+- 📚 Deepening knowledge in **Databases & Data Analysis**
+"""
 
 # ── Full README assembler ──────────────────────────────────────────────────────
 
 def build_readme(profile, repos, lang_totals, skills):
-    bio       = profile.get("bio") or "Passionately exploring AI, Software Development, and everything in between."
-    updated   = datetime.now(timezone.utc).strftime("%d %b %Y, %H:%M UTC")
-    name_enc  = DISPLAY_NAME.replace(" ", "%20").replace("'", "%27")
+    bio     = profile.get("bio") or "Passionately exploring AI, Software Development, and everything in between."
+    updated = datetime.now(timezone.utc).strftime("%d %b %Y, %H:%M UTC")
+    name_enc = DISPLAY_NAME.replace(" ", "%20").replace("'", "%27")
 
     header = f"""<!-- Header Banner -->
 <div align="center">
