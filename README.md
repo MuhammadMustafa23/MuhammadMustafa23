@@ -101,8 +101,8 @@ me.say_hi()
 
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 💻 Building projects with **C++**, **Java**, **Python**
-- 📚 Deepening knowledge in **Operating Systems & Databases**
-- 🔬 Experimenting with **AI Agents & CSP Algorithms**
+- 📚 Deepening knowledge in **Databases & Data Analysis**
+
 
 ---
 
@@ -113,5 +113,5 @@ me.say_hi()
 
   *"Code is poetry written for machines, but read by humans."*
 
-  <!-- auto-updated: 26 May 2026, 09:40 UTC -->
+  <!-- auto-updated: 26 May 2026, 10:28 UTC -->
 </div>
