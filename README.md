@@ -56,12 +56,12 @@ Passionately exploring AI, Software Development, and everything in between.
 
 | Project | Description | Language | Stars |
 |---------|-------------|----------|-------|
+| [CloudDesk-AI-Powered-Support-Intelligence-Platform](https://github.com/MuhammadMustafa23/CloudDesk-AI-Powered-Support-Intelligence-Platform) | An end-to-end customer support platform that automatically c | Python | ★1 |
 | [ChronoRift-OS-Project](https://github.com/MuhammadMustafa23/ChronoRift-OS-Project) | A wave-based RPG built in C++17 that demonstrates core Opera | C++ | ★1 |
 | [BuzzBombers-Game-with-SFML](https://github.com/MuhammadMustafa23/BuzzBombers-Game-with-SFML) | A vibrant arcade-style shooting game built with C++ and SFML | C++ | ★1 |
 | [Resume-Optimizer-Project](https://github.com/MuhammadMustafa23/Resume-Optimizer-Project) | AI-powered resume optimizer — matches resume to job descript | TypeScript | ★1 |
 | [SmartCity-Islamabad-A-Data-Structures-Focused-Urban-Simulation](https://github.com/MuhammadMustafa23/SmartCity-Islamabad-A-Data-Structures-Focused-Urban-Simulation) | A console-based C++ simulation of a smart city management sy | C++ | ★1 |
 | [MediTrack](https://github.com/MuhammadMustafa23/MediTrack) | A hospital management system for The Ivor Paine Memorial Hos | PHP | ★1 |
-| [CityMind-AI-Simulation](https://github.com/MuhammadMustafa23/CityMind-AI-Simulation) | AI-driven city simulation — CSP layout, GA ambulance dispatc | Python | ★1 |
 
 ---
 
@@ -113,5 +113,5 @@ me.say_hi()
 
   *"Code is poetry written for machines, but read by humans."*
 
-  <!-- auto-updated: 21 Jul 2026, 08:13 UTC -->
+  <!-- auto-updated: 21 Jul 2026, 13:22 UTC -->
 </div>
